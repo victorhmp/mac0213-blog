@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{394:function(a,t){a.exports={data:{site:{siteMetadata:{title:"MAC0213 Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Durante a semana dos dias 14 a 20 de outubro, trabalhamos na criação de  Jupyter Notebooks  para visualizar os dados referêntes a cada…",fields:{slug:"/first-post/"},frontmatter:{date:"20 October, 2018",title:"First post"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-0d81752944aa1a7614a8.js.map
