@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{393:function(a,e){a.exports={data:{site:{siteMetadata:{title:"MAC0213 Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Em reunião realizada no dia 08 de março às 16h na Secretaria Municipal de Inovação e Tecnologia (SMIT), localizada no centro de São Paulo…",fields:{slug:"/planning/"},frontmatter:{date:"03 April, 2018",title:"Planejamento"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-11d787686b945d7104a5.js.map
