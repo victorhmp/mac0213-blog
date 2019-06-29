@@ -1,6 +1,6 @@
 ---
 title: Conteinerização (Pt. 1)
-date: "2018-05-01"
+date: "2019-05-01"
 ---
 
 Durante a semana dos dias 21/04 à 27/04, busquei encontrar qual seria a melhor maneira de dividir e orquestrar os serviços e módulos que compõem o FATIMA em containers utilizando _Docker_ e _Compose_.

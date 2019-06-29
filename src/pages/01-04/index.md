@@ -1,6 +1,6 @@
 ---
 title: Segunda semana de estudos
-date: "2018-04-06"
+date: "2019-04-06"
 ---
 
 Durante a semana dos dias 01/04 à 06/04, continuei o estudo sobre _Continuous Integration_ e _Continuous Delivery_, aguardando receber o código da aplicação, o modelo da VM utilizada e poder estudar a aplicação.

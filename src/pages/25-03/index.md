@@ -1,6 +1,6 @@
 ---
 title: Primeira semana de estudos
-date: "2018-04-04"
+date: "2019-04-04"
 ---
 
 Durante a semana dos dias 25/03 à 30/03, busquei recursos online para aprender sobre _continuous integration (CI)_ e _continuous delivery (CD)_, encontrando diversoss vídeos sobre o assunto e uma documentação muito compreensiva disponibilizada pelo time do _Gitlab_ em https://docs.gitlab.com/ee/ci/ .

@@ -1,6 +1,6 @@
 ---
 title: Recebimento do código da aplicação
-date: "2018-04-21"
+date: "2019-04-21"
 ---
 
 Durante a semana dos dias 14/04 à 20/04, recebi o código da aplicação por email (dia 16/04) e busquei entender como a aplicação estava dividida para poder sugerir qual a melhor maneira de conteinerizá-la.
