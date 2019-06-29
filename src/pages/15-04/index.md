@@ -9,4 +9,4 @@ Basicamente a aplicação está dividida em três módulos: o banco de dados, Ma
 
 O setup do ambiente local para rodar a plataforma está documentada no README do repositório, e no seu estado atual é longo e envolve instalação de algumas dependências no computador do usuário, apesar da presença de scripts que automatizam a subida da plataforma uma vez feito o setup de desenvolvimento, o que deve facilitar a conteinerização.
 
-**Horas**: 6 horas
+**Horas**: 5 horas

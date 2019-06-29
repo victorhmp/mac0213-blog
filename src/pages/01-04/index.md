@@ -3,15 +3,13 @@ title: Segunda semana de estudos
 date: "2019-04-06"
 ---
 
-Durante a semana dos dias 01/04 à 06/04, continuei o estudo sobre _Continuous Integration_ e _Continuous Delivery_, aguardando receber o código da aplicação, o modelo da VM utilizada e poder estudar a aplicação.
+Durante a semana dos dias 01/04 à 06/04, busquei recursos online para aprender sobre _continuous integration (CI)_ e _continuous delivery (CD)_, encontrando diversoss vídeos sobre o assunto e uma documentação muito compreensiva disponibilizada pelo time do _Gitlab_ em https://docs.gitlab.com/ee/ci/ .
 
-Procurei estudar mais sobre _Gitlab Runners_.
+Outros links consultados foram:
 
-Os links consultados foram os seguintes:
+- https://about.gitlab.com/stages-devops-lifecycle/
+- https://docs.gitlab.com/ee/topics/autodevops/
+- https://docs.gitlab.com/ee/ci/yaml/README.html
+- https://docs.gitlab.com/ee/ci/quick_start/README.html
 
-- https://docs.gitlab.com/ee/ci/quick_start/README.html#configuring-a-runner
-- https://docs.gitlab.com/runner/install/
-- https://docs.gitlab.com/ee/ci/runners/README.html#registering-a-specific-runner
-- https://www.youtube.com/watch?v=enMumwvLAug
-
-**Horas**: 8 horas
+**Horas**: 10 horas
